@@ -1,0 +1,4 @@
+views/
+├── home.ejs
+├── about.ejs
+└── contact.ejs
